@@ -1,1 +1,0 @@
-A more structured format of this model is of course objects, or classes.
